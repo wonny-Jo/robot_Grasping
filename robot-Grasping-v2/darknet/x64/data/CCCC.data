@@ -1,0 +1,6 @@
+classes= 14
+train  = data/CCCC.txt
+valid  = data/2007_test.txt
+#difficult = data/difficult_2007_test.txt
+names = data/CCCC.names
+backup = backup/

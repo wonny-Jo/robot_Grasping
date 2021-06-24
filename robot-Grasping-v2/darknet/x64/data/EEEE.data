@@ -1,0 +1,7 @@
+classes= 14
+train  = D:/data_augmentation/dataset/train.txt
+#valid = data/coco_val_5k.list
+names = data/DDDD.names
+backup = backup/
+#eval=coco
+

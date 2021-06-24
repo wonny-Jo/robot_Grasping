@@ -1,0 +1,144 @@
+item {
+  id: 1
+  name: 'Drawer_light'
+}
+item {
+  id: 2
+  name: 'Drawer_Dark'
+}
+item {
+  id: 3
+  name: 'Bin_white'
+}
+item {
+  id: 4
+  name: 'Bin_stan'
+}
+item {
+  id: 5
+  name: 'Holder_white'
+}
+item {
+  id: 6
+  name: 'Holder_black'
+}
+item {
+  id: 7
+  name: 'Keyboard_black'
+}
+item {
+  id: 8
+  name: 'Keyboard_pink'
+}
+item {
+  id: 9
+  name: 'Cup_red'
+}
+item {
+  id: 10
+  name: 'Cup_pink'
+}
+item {
+  id: 11
+  name: 'Box_small'
+}
+item {
+  id: 12
+  name: 'Box_Big'
+}
+item {
+  id: 15
+  name: 'Milk'
+}
+item {
+  id: 16
+  name: 'Yogurt'
+}
+item {
+  id: 17
+  name: 'Eraser_small'
+}
+item {
+  id: 18
+  name: 'Eraser_big'
+}
+item {
+  id: 19
+  name: 'Usb_small'
+}
+item {
+  id: 20
+  name: 'Usb_Big'
+}
+item {
+  id: 21
+  name: 'Tape_black'
+}
+item {
+  id: 22
+  name: 'Tape_white'
+}
+item {
+  id: 23
+  name: 'Glue_pen'
+}
+item {
+  id: 24
+  name: 'Glue_stick'
+}
+item {
+  id: 25
+  name: 'Stapler_pink'
+}
+item {
+  id: 26
+  name: 'Stapler_stan'
+}
+item {
+  id: 27
+  name: 'Pen_namepen'
+}
+item {
+  id: 28
+  name: 'Pen_Marker'
+}
+item {
+  id: 31
+  name: 'silver_namepen'
+}
+item {
+  id: 32
+  name: 'black_marker'
+}
+item {
+  id: 34
+  name: 'black_file_holder'
+}
+item {
+  id: 35
+  name: 'pink_file_holder'
+}
+item {
+  id: 36
+  name: 'green_book'
+}
+item {
+  id: 37
+  name: 'green_desk_cleaner'
+}
+item {
+  id: 38
+  name: 'apricot_bottle'
+}
+item {
+  id: 39
+  name: 'grey_bottle'
+}
+item {
+  id: 40
+  name: 'blue_book'
+}
+item {
+  id: 41
+  name: 'skyblue_desk_cleaner'
+}

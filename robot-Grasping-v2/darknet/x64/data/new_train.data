@@ -1,0 +1,7 @@
+classes= 28
+train  = data/new_train210401.txt
+valid  = data/2007_test.txt
+#difficult = data/difficult_2007_test.txt
+names = data/new_train.names
+backup = backup/
+

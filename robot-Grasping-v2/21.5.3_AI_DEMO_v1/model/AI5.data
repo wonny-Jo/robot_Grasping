@@ -1,0 +1,7 @@
+classes= 7
+train  = D:/dataset/yolo/dataset15/train.txt
+#valid = data/coco_val_5k.list
+names = model/AI5.names
+backup = save_AI_12_16/
+#eval=coco
+
