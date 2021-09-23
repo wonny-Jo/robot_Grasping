@@ -1,0 +1,7 @@
+classes= 18
+train  = D:/data_augmentation_v3/dataset/train_picking.txt
+#valid = data/coco_val_5k.list
+names = model/model_picking.names
+backup = backup/
+#eval=coco
+

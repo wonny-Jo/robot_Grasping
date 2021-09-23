@@ -1,0 +1,7 @@
+classes= 19
+train  = D:/data_augmentation_v3/dataset/train_hp.txt
+#valid = data/coco_val_5k.list
+names = model/model_hp.names
+backup = backup/
+#eval=coco
+

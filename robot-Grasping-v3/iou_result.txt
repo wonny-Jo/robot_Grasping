@@ -1,0 +1,172 @@
+bd
+detections_count = 53304, unique_truth_count = 47520
+class_id = 0, name = MILK, ap = 100.00%          (TP = 2967, FP = 45)
+class_id = 1, name = YOGURT, ap = 100.00%        (TP = 2772, FP = 260)
+class_id = 2, name = SMALL_USB, ap = 100.00%     (TP = 2958, FP = 204)
+class_id = 3, name = BIG_USB, ap = 100.00%       (TP = 2966, FP = 20)
+class_id = 4, name = SMALL_ERASER, ap = 100.00%          (TP = 2963, FP = 116)
+class_id = 5, name = BIG_ERASER, ap = 100.00%            (TP = 2871, FP = 130)
+class_id = 6, name = WHITE_BIN, ap = 100.00%     (TP = 2970, FP = 0)
+class_id = 7, name = STAN_BIN, ap = 100.00%      (TP = 2970, FP = 0)
+class_id = 8, name = LIGHT_DRAWER, ap = 100.00%          (TP = 2970, FP = 0)
+class_id = 9, name = DARK_DRAWER, ap = 100.00%           (TP = 2970, FP = 0)
+class_id = 10, name = MILK_TAIL, ap = 100.00%            (TP = 2970, FP = 130)
+class_id = 11, name = YOGURT_TAIL, ap = 99.87%           (TP = 2970, FP = 798)
+class_id = 12, name = SMALL_USB_TAIL, ap = 93.64%        (TP = 2724, FP = 523)
+class_id = 13, name = BIG_USB_TAIL, ap = 100.00%         (TP = 2970, FP = 28)
+class_id = 14, name = SMALL_ERASER_TAIL, ap = 99.87%     (TP = 2957, FP = 212)
+class_id = 15, name = BIG_ERASER_TAIL, ap = 100.00%      (TP = 2970, FP = 17)
+
+ for conf_thresh = 0.25, precision = 0.95, recall = 0.99, F1-score = 0.97
+ for conf_thresh = 0.25, TP = 46938, FP = 2483, FN = 582, average IoU = 89.84 %
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall
+ mean average precision (mAP@0.50) = 0.995863, or 99.59 %
+Total Detection Time: 1187 Seconds
+
+
+
+cwb
+class_id = 0, name = GREEN_DESK_CLEANER, ap = 100.00%            (TP = 2967, FP = 30)
+class_id = 1, name = BLUE_DESK_CLEANER, ap = 100.00%     (TP = 2950, FP = 119)
+class_id = 2, name = GREEN_BOOK, ap = 100.00%            (TP = 2970, FP = 0)
+class_id = 3, name = BLUE_BOOK, ap = 100.00%     (TP = 2970, FP = 0)
+class_id = 4, name = BLACK_FILE_HOLDER, ap = 100.00%     (TP = 2970, FP = 0)
+class_id = 5, name = PINK_FILE_HOLDER, ap = 100.00%      (TP = 2970, FP = 0)
+class_id = 6, name = BLACK_KEYBOARD, ap = 100.00%        (TP = 2851, FP = 119)
+class_id = 7, name = PINK_KEYBOARD, ap = 100.00%         (TP = 2860, FP = 116)
+class_id = 8, name = APRICOT_BOTTLE, ap = 100.00%        (TP = 2970, FP = 0)
+class_id = 9, name = GREY_BOTTLE, ap = 100.00%           (TP = 2970, FP = 0)
+class_id = 10, name = GREEN_DESK_CLEANER_TAIL, ap = 100.00%      (TP = 2970, FP = 60)
+class_id = 11, name = BLUE_DESK_CLEANER_TAIL, ap = 99.92%        (TP = 2970, FP = 486)
+class_id = 12, name = GREEN_BOOK_TAIL, ap = 100.00%      (TP = 2970, FP = 0)
+class_id = 13, name = BLUE_BOOK_TAIL, ap = 100.00%       (TP = 2970, FP = 0)
+class_id = 14, name = BLACK_FILE_HOLDER_TAIL, ap = 100.00%       (TP = 2970, FP = 0)
+class_id = 15, name = PINK_FILE_HOLDER_TAIL, ap = 100.00%        (TP = 2970, FP = 0)
+class_id = 16, name = BLACK_KEYBOARD_TAIL, ap = 100.00%          (TP = 2970, FP = 15)
+class_id = 17, name = PINK_KEYBOARD_TAIL, ap = 100.00%           (TP = 2970, FP = 10)
+
+ for conf_thresh = 0.25, precision = 0.98, recall = 1.00, F1-score = 0.99
+ for conf_thresh = 0.25, TP = 53208, FP = 955, FN = 252, average IoU = 95.08 %
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall
+ mean average precision (mAP@0.50) = 0.999957, or 100.00 %
+Total Detection Time: 1255 Seconds
+
+
+hp
+ detections_count = 87594, unique_truth_count = 80190
+class_id = 0, name = HDMI, ap = 100.00%          (TP = 5919, FP = 180)
+class_id = 1, name = USB_C, ap = 100.00%         (TP = 5898, FP = 84)
+class_id = 2, name = HDMI_HUB, ap = 100.00%      (TP = 5939, FP = 1)
+class_id = 3, name = USB_HUB, ap = 100.00%       (TP = 5931, FP = 85)
+class_id = 4, name = BLACK_MARKER, ap = 100.00%          (TP = 2967, FP = 3)
+class_id = 5, name = RED_MARKER, ap = 100.00%            (TP = 2969, FP = 1)
+class_id = 6, name = BLACK_NAMEPEN, ap = 100.00%         (TP = 2963, FP = 8)
+class_id = 7, name = SILVER_NAMEPEN, ap = 100.00%        (TP = 2970, FP = 0)
+class_id = 8, name = GREEN_HOLDER, ap = 100.00%          (TP = 2929, FP = 105)
+class_id = 9, name = BLACK_HOLDER, ap = 99.86%           (TP = 2965, FP = 145)
+class_id = 10, name = HDMI_TAIL, ap = 97.86%     (TP = 5727, FP = 531)
+class_id = 11, name = USB_C_TAIL, ap = 94.62%            (TP = 5548, FP = 563)
+class_id = 12, name = HDMI_HUB_TAIL, ap = 100.00%        (TP = 5940, FP = 7)
+class_id = 13, name = USB_HUB_TAIL, ap = 99.76%          (TP = 5940, FP = 328)
+class_id = 14, name = BLACK_MARKER_TAIL, ap = 100.00%            (TP = 2970, FP = 0)
+class_id = 15, name = RED_MARKER_TAIL, ap = 100.00%      (TP = 2970, FP = 0)
+class_id = 16, name = BLACK_NAMEPEN_TAIL, ap = 100.00%           (TP = 2970, FP = 1)
+class_id = 17, name = SILVER_NAMEPEN_TAIL, ap = 100.00%          (TP = 2970, FP = 1)
+class_id = 18, name = GREEN_HOLDER_TAIL, ap = 99.88%     (TP = 2970, FP = 270)
+
+ for conf_thresh = 0.25, precision = 0.97, recall = 0.99, F1-score = 0.98
+ for conf_thresh = 0.25, TP = 79455, FP = 2313, FN = 735, average IoU = 92.11 %
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall
+ mean average precision (mAP@0.50) = 0.995777, or 99.58 %
+Total Detection Time: 981 Seconds
+
+
+
+mp
+ detections_count = 56661, unique_truth_count = 53460
+class_id = 0, name = WHITE_PLUG, ap = 100.00%            (TP = 2944, FP = 87)
+class_id = 1, name = BLACK_PLUG, ap = 100.00%            (TP = 2958, FP = 16)
+class_id = 2, name = BLACK_MULTITAP, ap = 100.00%        (TP = 2970, FP = 0)
+class_id = 3, name = GREEN_MULTITAP, ap = 100.00%        (TP = 2970, FP = 0)
+class_id = 4, name = ORANGE_PENCIL, ap = 100.00%         (TP = 2970, FP = 0)
+class_id = 5, name = BLUE_PENCIL, ap = 100.00%           (TP = 2970, FP = 0)
+class_id = 6, name = BLUE_SHARPENER, ap = 100.00%        (TP = 2935, FP = 121)
+class_id = 7, name = ORANGE_SHARPENER, ap = 100.00%      (TP = 2970, FP = 0)
+class_id = 8, name = SILVER_PENCILCASE, ap = 100.00%     (TP = 2970, FP = 0)
+class_id = 9, name = RED_PENCILCASE, ap = 100.00%        (TP = 2970, FP = 0)
+class_id = 10, name = WHITE_PLUG_TAIL, ap = 100.00%      (TP = 2970, FP = 90)
+class_id = 11, name = BLACK_PLUG_TAIL, ap = 100.00%      (TP = 2970, FP = 139)
+class_id = 12, name = BLACK_MULTITAP_TAIL, ap = 100.00%          (TP = 2970, FP = 0)
+class_id = 13, name = GREEN_MULTITAP_TAIL, ap = 100.00%          (TP = 2970, FP = 0)
+class_id = 14, name = ORANGE_PENCIL_TAIL, ap = 99.60%            (TP = 2959, FP = 14)
+class_id = 15, name = BLUE_PENCIL_TAIL, ap = 100.00%     (TP = 2970, FP = 4)
+class_id = 16, name = BLUE_SHARPENER_TAIL, ap = 96.56%           (TP = 2970, FP = 378)
+class_id = 17, name = ORANGE_SHARPENER_TAIL, ap = 100.00%        (TP = 2970, FP = 0)
+
+ for conf_thresh = 0.25, precision = 0.98, recall = 1.00, F1-score = 0.99
+ for conf_thresh = 0.25, TP = 53376, FP = 849, FN = 84, average IoU = 93.15 %
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall
+ mean average precision (mAP@0.50) = 0.997865, or 99.79 %
+Total Detection Time: 850 Seconds
+
+
+picking
+ detections_count = 61716, unique_truth_count = 53460
+class_id = 0, name = RED_CUP, ap = 100.00%       (TP = 2820, FP = 252)
+class_id = 1, name = PINK_CUP, ap = 100.00%      (TP = 2806, FP = 228)
+class_id = 2, name = SMALL_BOX, ap = 100.00%     (TP = 2907, FP = 163)
+class_id = 3, name = BIG_BOX, ap = 100.00%       (TP = 2950, FP = 204)
+class_id = 4, name = PINK_STAPLER, ap = 100.00%          (TP = 2948, FP = 81)
+class_id = 5, name = STAN_STAPLER, ap = 100.00%          (TP = 2963, FP = 13)
+class_id = 6, name = GLUE_PEN, ap = 100.00%      (TP = 2968, FP = 14)
+class_id = 7, name = GLUE_STICK, ap = 100.00%            (TP = 2970, FP = 0)
+class_id = 8, name = BLACK_TAPE, ap = 100.00%            (TP = 2970, FP = 0)
+class_id = 9, name = WHITE_TAPE, ap = 100.00%            (TP = 2970, FP = 0)
+class_id = 10, name = RED_CUP_TAIL, ap = 98.68%          (TP = 2970, FP = 349)
+class_id = 11, name = PINK_CUP_TAIL, ap = 100.00%        (TP = 2970, FP = 275)
+class_id = 12, name = SMALL_BOX_TAIL, ap = 100.00%       (TP = 2970, FP = 321)
+class_id = 13, name = BIG_BOX_TAIL, ap = 91.59%          (TP = 2970, FP = 592)
+class_id = 14, name = PINK_STAPLER_TAIL, ap = 100.00%            (TP = 2970, FP = 277)
+class_id = 15, name = STAN_STAPLER_TAIL, ap = 100.00%            (TP = 2970, FP = 9)
+class_id = 16, name = GLUE_PEN_TAIL, ap = 100.00%        (TP = 2970, FP = 42)
+class_id = 17, name = GLUE_STICK_TAIL, ap = 100.00%      (TP = 2970, FP = 0)
+
+ for conf_thresh = 0.25, precision = 0.95, recall = 0.99, F1-score = 0.97
+ for conf_thresh = 0.25, TP = 53032, FP = 2820, FN = 428, average IoU = 90.19 %
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall
+ mean average precision (mAP@0.50) = 0.994592, or 99.46 %
+Total Detection Time: 886 Seconds
+
+
+picking2
+ detections_count = 61460, unique_truth_count = 53460
+class_id = 0, name = GREY_CUP, ap = 100.00%      (TP = 2959, FP = 106)
+class_id = 1, name = GREEN_CUP, ap = 100.00%     (TP = 2916, FP = 133)
+class_id = 2, name = BLUE_CUP, ap = 100.00%      (TP = 2970, FP = 38)
+class_id = 3, name = PURPLE_CUP, ap = 100.00%            (TP = 2968, FP = 36)
+class_id = 4, name = SILVER_CUP, ap = 100.00%            (TP = 2937, FP = 127)
+class_id = 5, name = WHITE_BOX, ap = 100.00%     (TP = 2931, FP = 90)
+class_id = 6, name = RED_BOX, ap = 100.00%       (TP = 2943, FP = 126)
+class_id = 7, name = YELLOW_BOX, ap = 100.00%            (TP = 2845, FP = 320)
+class_id = 8, name = GREEN_BOX, ap = 100.00%     (TP = 2970, FP = 0)
+class_id = 9, name = PINK_BOX, ap = 100.00%      (TP = 2970, FP = 0)
+class_id = 10, name = GREY_CUP_TAIL, ap = 99.02%         (TP = 2970, FP = 329)
+class_id = 11, name = GREEN_CUP_TAIL, ap = 98.39%        (TP = 2970, FP = 359)
+class_id = 12, name = BLUE_CUP_TAIL, ap = 99.85%         (TP = 2970, FP = 159)
+class_id = 13, name = PURPLE_CUP_TAIL, ap = 99.98%       (TP = 2970, FP = 90)
+class_id = 14, name = SILVER_CUP_TAIL, ap = 100.00%      (TP = 2970, FP = 121)
+class_id = 15, name = WHITE_BOX_TAIL, ap = 95.61%        (TP = 2970, FP = 630)
+class_id = 16, name = RED_BOX_TAIL, ap = 94.32%          (TP = 2970, FP = 550)
+class_id = 17, name = YELLOW_BOX_TAIL, ap = 97.93%       (TP = 2970, FP = 670)
+
+ for conf_thresh = 0.25, precision = 0.93, recall = 0.99, F1-score = 0.96
+ for conf_thresh = 0.25, TP = 53169, FP = 3884, FN = 291, average IoU = 89.59 %
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall
+ mean average precision (mAP@0.50) = 0.991727, or 99.17 %
+Total Detection Time: 829 Seconds

@@ -1,0 +1,7 @@
+classes= 18
+train  = D:/data_augmentation_v3/dataset/train_cwb.txt
+#valid = data/coco_val_5k.list
+names = model/model_cwb.names
+backup = backup/
+#eval=coco
+

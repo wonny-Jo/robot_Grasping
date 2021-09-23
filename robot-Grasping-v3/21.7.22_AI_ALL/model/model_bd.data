@@ -1,0 +1,7 @@
+classes= 16
+train  = D:/data_augmentation_v3/dataset/train_bd.txt
+#valid = data/coco_val_5k.list
+names = model/model_bd.names
+backup = backup/
+#eval=coco
+
